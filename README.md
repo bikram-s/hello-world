@@ -1,2 +1,3 @@
 # hello-world
-Just a greeting
+Hey Humans...
+Lets get to business!
